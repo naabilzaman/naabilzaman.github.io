@@ -2,7 +2,7 @@
 const BOT_TOKEN = "8069612607:AAEAdefYVTHd-fwgHIkASZP4ckLCYzJlq6Y";
 
 // Your Telegram USER ID
-const USERID = "9876543210";
+const USERID = "1288169829";
 
 addEventListener("fetch", (event) => {
   event.respondWith(handleRequest(event.request));
